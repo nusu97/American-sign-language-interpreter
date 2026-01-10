@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.fb39fcb1-ecb5-11f0-abb6-186024262912.jpg</filename>
+	<path>C:\Users\nus\Documents\GitHub\American-sign-language-interpreter\Tensorflow\workspace\images\collectedimages\thanks.fb39fcb1-ecb5-11f0-abb6-186024262912.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thank you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>231</ymin>
+			<xmax>439</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
