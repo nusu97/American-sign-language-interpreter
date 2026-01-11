@@ -1,0 +1,11 @@
+﻿{
+    "WorkingDirectory":  "C:\\Users\\nus\\Documents\\GitHub\\American-sign-language-interpreter\\Tensorflow\\models\\research",
+    "LogStdout":  "C:\\Users\\nus\\Documents\\GitHub\\American-sign-language-interpreter\\train_smoke2_20260111_144944.log",
+    "StartedAt":  "2026-01-11T14:49:45.1495181-05:00",
+    "PipelineConfig":  "C:\\Users\\nus\\Documents\\GitHub\\American-sign-language-interpreter\\Tensorflow\\workspace\\models\\my_ssd_mobnet\\pipeline.config",
+    "NumTrainSteps":  50,
+    "ModelDir":  "C:\\Users\\nus\\Documents\\GitHub\\American-sign-language-interpreter\\Tensorflow\\workspace\\models\\my_ssd_mobnet_smoke",
+    "Python":  "C:\\Users\\nus\\Documents\\GitHub\\American-sign-language-interpreter\\.venv\\Scripts\\python.exe",
+    "LogStderr":  "C:\\Users\\nus\\Documents\\GitHub\\American-sign-language-interpreter\\train_smoke2_20260111_144944.log.err",
+    "Pid":  18156
+}
