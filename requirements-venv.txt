@@ -1,0 +1,5 @@
+# Minimal runtime deps for running Tensorflow/scripts/generate_tfrecord.py inside .venv
+# Tested on Windows + Python 3.11
+tensorflow==2.16.1
+pandas
+pillow
