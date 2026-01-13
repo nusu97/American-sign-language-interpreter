@@ -16,6 +16,10 @@ This repo vendors the TensorFlow Object Detection API under `Tensorflow/models` 
 - Implemented dataset tooling (Pascal VOC XML → TFRecord) with `Tensorflow/scripts/generate_tfrecord.py`.
 - Added inference utilities (`Tensorflow/scripts/run_inference_image.py` and a frozen-graph fallback) for quick demo generation.
 
+## Documentation
+
+- Confluence: https://nusu97.atlassian.net/wiki/spaces/~71202024adedf74f4d48b6bb3ef03154dffd28/pages/196813/Documentation+for+ASL+Detection
+
 ## Example Classes
 
 This repo's current label map includes example gestures such as:
